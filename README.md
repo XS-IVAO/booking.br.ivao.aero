@@ -73,15 +73,6 @@ Currently, the KRONOS development is led by a small dedicated team at IVAO BR Di
 ### Core team application process
 If you feel you are a suit for the core team, feel accessible to ping @Web on Discord, and we will be happy to chat! 🙂
 
-
-## Instalação
-
-Instale my-project com npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
     
 ## Contributing
 
@@ -100,6 +91,7 @@ KRONOS suit is up and running in the following divisions:
 - [IVAO Portugal](https://kronos.pt.ivao.aero/)
 - [IVAO Algeria](https://booking.dz.ivao.aero/)
 - [IVAO North America](https://booking.xa.ivao.aero/)
+- [IVAO Central America Region](https://kronos.xs.ivao.aero/)
 
 ## Translations
 KRONOS implements out of the box the i18n pattern which detects the current users location and provides him a json file throughout the whole application. We find it important to add other languages overtime to our codebase to guarantee full coverage of IVAO's diverse user base. To create a translation checkout this [step by step documentation](#creatingATranslation).
