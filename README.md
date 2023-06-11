@@ -83,7 +83,7 @@ See `contributing.md` for ways to get started.
 Please adhere to this project's `code of conduct`.
 
 
-## Currently used by
+## Currently used by:
 
 KRONOS suit is up and running in the following divisions:
 
